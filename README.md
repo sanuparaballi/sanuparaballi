@@ -9,7 +9,7 @@
 
 # Sanup S. Araballi
 
-**PhD Candidate, Computer Science @ Syracuse University** &nbsp;·&nbsp; **Defending Aug 2026**
+**PhD Candidate, Computer Science @ Syracuse University** &nbsp;·&nbsp; 
 **Targeting: Research Scientist · Applied Scientist · AI Engineer · ML Researcher**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sanuparaballi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanuparaballi/)
