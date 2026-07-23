@@ -30,7 +30,7 @@
 
 ## 👋 About Me
 
-I'm a PhD candidate researching how to make **NP-hard, non-convex optimization problems tractable** using evolutionary algorithms and surrogate models, and how to make the neural networks built on top of them **explainable enough to trust in production**. Before Syracuse, I spent 8+ years as a production engineer and delivery lead at Deloitte and Accenture, shipping APIs and enterprise platforms used by tens of thousands of people. That combination, research rigor plus shipping discipline, is what I bring to applied ML roles.
+I'm a PhD candidate researching how to make **NP-hard, non-convex optimization problems tractable** using evolutionary algorithms and surrogate models, and how to make the neural networks built on top of them **explainable enough to trust in production**. Before Syracuse, I spent 9 years as a data engineer, application developer and delivery lead at Deloitte and Accenture, shipping APIs and enterprise platforms used by tens of thousands of people. That combination, research rigor plus shipping discipline, is what I bring to applied ML roles.
 
 ```text
 research.focus = {
@@ -76,9 +76,11 @@ research.focus = {
 [![Under Review](https://img.shields.io/badge/KDD-2026_(under_review)-orange?style=flat-square)](#)
 [![Under Review](https://img.shields.io/badge/FUSION-2026_(under_review)-orange?style=flat-square)](#)
 
-- **Hierarchical TSK Fuzzy Classifier for Explainable RL**, *AAAI Spring Symposium Series, 2026*
-- **Hybrid Co-Evolutionary Meta-Modeling for Bilevel Optimization**, *ECTA/IJCCI, 2025*
-- *T-RIS*, under review, KDD 2026 &nbsp;·&nbsp; *Crisp Distance Metrics*, under review, FUSION 2026 &nbsp;·&nbsp; *1-Bit RAG*, in preparation
+- **Distilling Deep Reinforcement Learning into Interpretable Fuzzy Rules**, *AAAI Spring Symposium Series, 2026*
+- **A Surrogate-Assisted Co-Evolutionary Framework for Bilevel Optimization**, *ECTA/IJCCI, 2025*
+- **Developing an Ad Viewing Retention Model for TV Comedy Through Machine Learning**, *BEA - Open Paper Winner 2021*
+
+- *Crisp Distance Metrics*, &nbsp;·&nbsp; *Adaptive 1-Bit RAG, T-RIS*, in preparation, &nbsp;·&nbsp; 
 
 **Peer reviewer:** NeurIPS 2025 (Main Track, Ethics/Datasets & Benchmarks) · IJCNN 2025 · Tapia 2025
 **Recognition:** BEA Open Paper Competition Winner (2021) · Syracuse Graduate Summer Fellowship (2022)
