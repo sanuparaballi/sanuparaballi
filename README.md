@@ -169,9 +169,8 @@ Senior Developer      Solutions      Computer          + AFRL internship (2024)
 
 ## 📊 GitHub Stats
 
-<div align="center">
 ![Evolutionary algorithm exploring my contribution graph](https://raw.githubusercontent.com/sanuparaballi/sanuparaballi/output/ea-contribution.svg)
-</div>
+
 <div align="center">
   
 <!--
