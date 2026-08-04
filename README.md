@@ -169,17 +169,17 @@ Senior Developer      Solutions      Computer          + AFRL internship (2024)
 
 ## 📊 GitHub Stats
 
+<div align="center">
 ![Evolutionary algorithm exploring my contribution graph](https://raw.githubusercontent.com/sanuparaballi/sanuparaballi/output/ea-contribution.svg)
 
-<div align="center">
-
+<!--
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=sanuparaballi&show_icons=true&theme=tokyonight&hide_border=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanuparaballi&layout=compact&theme=tokyonight&hide_border=true" />
 
 <img src="https://streak-stats.demolab.com/?user=sanuparaballi&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=sanuparaballi&theme=tokyonight&no-frame=true&row=1&column=6" />
-
+-->
 </div>
 
 ---
