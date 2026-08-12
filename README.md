@@ -73,8 +73,8 @@ research.focus = {
 
 [![AAAI](https://img.shields.io/badge/AAAI_SSS-2026-8C1D40?style=flat-square&logo=googlescholar&logoColor=white)](#)
 [![ECTA](https://img.shields.io/badge/ECTA%2FIJCCI-2025-2E7D32?style=flat-square&logo=googlescholar&logoColor=white)](#)
-[![Under Review](https://img.shields.io/badge/KDD-2026_(under_review)-orange?style=flat-square)](#)
-[![Under Review](https://img.shields.io/badge/FUSION-2026_(under_review)-orange?style=flat-square)](#)
+[![Under Review](https://img.shields.io/badge/BEA-2021_(Open_Paper_Winner)-orange?style=flat-square)](#)
+[![Under Review](https://img.shields.io/badge/ARF-2020-orange?style=flat-square)](#)
 
 - **Distilling Deep Reinforcement Learning into Interpretable Fuzzy Rules**, *AAAI Spring Symposium Series, 2026*
 - **A Surrogate-Assisted Co-Evolutionary Framework for Bilevel Optimization**, *ECTA/IJCCI, 2025*
